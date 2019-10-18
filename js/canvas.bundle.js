@@ -105,6 +105,8 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var canvas = document.querySelector('canvas');
 var c = canvas.getContext('2d');
 
+alert('');
+
 canvas.width = innerWidth;
 canvas.height = innerHeight;
 
